@@ -21,14 +21,12 @@ This project is a simple and responsive **Stopwatch** built using HTML, CSS, and
 
 ---
 
-## About
-
-This stopwatch project was created to practice JavaScript and DOM manipulation. It demonstrates core front-end development skills and interactive functionality.  
-
-Live demo: [https://abhaydutta.github.io/PRODIGY_WD_02/](https://abhaydutta.github.io/PRODIGY_WD_02/)
-
----
-
 ## Screenshot
 
 ![Stopwatch Screenshot](Images/Stopwatch.png)
+
+---
+
+## About
+
+This stopwatch project was created to practice JavaScript and DOM manipulation. It demonstrates core front-end development skills and interactive functionality.  
